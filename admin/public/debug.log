@@ -1,0 +1,3 @@
+[0402/001441:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Accès refusé. (0x5)
+[0402/001441:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0402/001441:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Accès refusé. (0x5)
